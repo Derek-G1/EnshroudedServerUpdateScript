@@ -8,16 +8,16 @@ Checks to see if the enshrouded server is running, if it is kill the script if i
 
 This was done on a server that was installed with SteamCMD
 
-Your server must be off when running this or it will not work
+1.Your server must be off when running this or it will not work
 
+2.Download the server_update.bat file  
 
-3.Create a .bat file and right click and edit it and put this code in it. The .bat file should be in the same folder
+3.copy file to the the same folder as the server
 
 4.set the path to your steamcmd
 set "steamcmd_path=C:\Users\User\SteamCMD\steamcmd.exe"
 
 5.Change the path to your server folder
-
-set "server_dir=C:\Users\User\SteamCMD\steamapps\common\enshrouded-server"
+example: set "server_dir=C:\Users\User\SteamCMD\steamapps\common\enshrouded-server"
 
 6.double click the .bat file and it should work

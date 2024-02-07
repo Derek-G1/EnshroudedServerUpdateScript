@@ -11,11 +11,12 @@ This was done on a server that was installed with SteamCMD
 
 1.Your server must be off when running this or it will not work
 
-2.Download the server_update.bat file  
+2.Download the update_server.bat file  
 
 3.copy file to the the same folder as the server
 
 4.set the path to your steamcmd
+
 set "steamcmd_path=C:\Users\User\SteamCMD\steamcmd.exe"
 
 5.Change the path to your server folder

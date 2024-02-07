@@ -2,6 +2,7 @@
 This is a batch or .bat script that will update you enshrouded server automatically
 
 I wrote a .bat script that will update your server automatically so we dont have to do it manually
+
 Here's what it does:
  
 Checks to see if the enshrouded server is running, if it is kill the script if it's not it continues with the script and will update your sever then start it
